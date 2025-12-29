@@ -1,16 +1,21 @@
-I’m currently working on:
-Improving my programming skills and personal projects.
-I’m looking to collaborate on:
-Open-source and beginner-friendly development projects.
-I’m looking for help with:
-Advanced concepts and best practices in coding.
-I’m currently learning:
-Web development and problem-solving techniques.
-Ask me about:
-Basic programming and web development.
-Fun fact:
-I enjoy learning new tech skills every day.# 💫 About Me:
-Improving my programming skills and personal projects.<br>Open-source and beginner-friendly development projects.<br>Advanced concepts and best practices in coding.<br>Web development and problem-solving techniques.<br>Basic programming and web development.<br>I enjoy learning new tech skills every day.
+# 💫 About Me:
+### 🔭 I’m currently working on
+Improving my programming skills through personal and practice-based projects.
+
+### 👯 I’m looking to collaborate on
+Open-source and beginner-friendly development projects that encourage learning and growth.
+
+### 🤝 I’m looking for help with
+Understanding advanced concepts and adopting best practices in coding.
+
+### 🌱 I’m currently learning
+Web development technologies and effective problem-solving techniques.
+
+### 💬 Ask me about
+Basic programming concepts and web development fundamentals.
+
+### ⚡ Fun fact
+I enjoy continuously learning and exploring new technologies.
 
 
 ## 🌐 Socials:
